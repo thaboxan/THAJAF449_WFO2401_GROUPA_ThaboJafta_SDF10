@@ -1,5 +1,7 @@
 # Project Title: Cache Bank Landing Page
 
+#Presentation Link: https://docs.google.com/presentation/d/1yY4z0y3sem4YVlq2vXoKR4WDNSHgk3TV/edit?usp=sharing&ouid=117681615695227592044&rtpof=true&sd=true
+#Loom Link: xxxx
 ## Project Description
 
 The Cache Bank Landing Page is a responsive website that serves as an introduction to Cache Bank. It showcases the bank's services, features, and contact information. The project is built using HTML, Tailwind CSS, and JavaScript.
