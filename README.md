@@ -14,7 +14,7 @@ The Cache Bank Landing Page is a responsive website that serves as an introducti
 
 - **Responsive Design**: The website is designed to be responsive and looks great on both desktop and mobile devices.
 - **Smooth Scrolling**: The website uses smooth scrolling for a better user experience.
-- **Fixed Navigation Bar**: The navigation bar is fixed at the top of the page, making it easy to navigate the website.
+- **Navigation Bar**: The navigation bar is at the top of the page, making it easy to navigate the website.
 - **Sections**: The website is divided into several sections, including Product, Features, Get Started, and Contact.
 
 ## Learning Journey
